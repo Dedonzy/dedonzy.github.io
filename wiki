@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Main </title>
+ <style>
+    h1{
+    text-align: center;
+    }
+    p{
+      margin-top: -22px;  
+      text-align: center;
+    }
+    div{
+       justify-content: center;
+        display: flex;
+    }
+    .box{
+        justify-content: center;display: flex;
+    }
+    td,p{
+        color: black;
+        font-weight: lighter;
+        margin: 20px;
+    }
+    td,a{
+        margin:20px
+    }
+ </style>
+    </head>
+    <body >
+         <h1 >WIKIPEDIA</h1>
+        <p >the free encyclopedia</p>
+        <div>
+            <img src="https://www.shutterstock.com/image-vector/puzzle-globe-education-knowledge-school-260nw-2251804043.jpg" alt="Logo Image" >
+       </div>
+       <div class="box">
+        <input type="search" style="border: 1px solid black;width:40%;text-align: center;height: 40px;">
+    
+    </div>
+    <div>
+    <table>
+        <tr>
+            <td> <a href="web project.html">English</a>
+            <p>6,782,200+ articles</p>
+            </td>
+            <td> <a href="web project.html">French</a>
+                <p>6,782,200+ articles</p>
+            </td>
+            <td><a href="web project.html">Spanish</a>
+                <p>6,782,200+ articles</p>
+            </td>
+        
+            
+        </tr>
+        <tr>
+            <td><a href="web project.html">Deutsch</a>
+                <p>6,782,200+ articles</p>
+            </td>
+            <td><a href="web project.html">Italiano</a>
+                <p>6,782,200+ articles</p>
+            </td>
+            <td><a href="web project.html">Afrikan</a>
+                <p>6,782,200+ articles</p>
+            </td>
+        </tr>
+    </div>
+
+        
+           
+        
+    </table>
+    </body>
+</html>
